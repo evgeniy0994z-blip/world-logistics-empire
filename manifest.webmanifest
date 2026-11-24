@@ -1,0 +1,15 @@
+{
+  "id": ".",
+  "name": "WORLD LOGISTICS EMPIRE",
+  "short_name": "WLE",
+  "description": "Global logistics and transport company strategy game",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08111d",
+  "theme_color": "#08111d",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
